@@ -1,0 +1,6 @@
+{
+  "name": "Իսպաներենի Հրամայական Եղանակ",
+  "description": "Իսպաներենի հրամայական եղանակի (Imperativo) ուսուցման ծրագիր՝ տեսությամբ, օրինակներով և ինտերակտիվ թեստերով:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
